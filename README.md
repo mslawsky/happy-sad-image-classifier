@@ -8,7 +8,7 @@
 
 A convolutional neural network implementation using TensorFlow to classify emoji-like faces as happy or sad. This project demonstrates binary image classification with CNN techniques to achieve 99.9% accuracy using early stopping.
 
-![Happy/Sad Emoji Examples](Happy/Sad Emoji Examples.png)
+![Happy/Sad Emoji Examples](Emoji-Examples.png)
 
 ---
 
