@@ -249,6 +249,18 @@ Potential enhancements for this project:
 
 ---
 
+## Acknowledgments 🙏
+
+- This project is based on the "Happy or Sad" exercise from the ["TensorFlow in Practice" specialization](https://www.coursera.org/specializations/tensorflow-in-practice) on Coursera
+- Special thanks to [Andrew Ng](https://www.andrewng.org/) for creating the Deep Learning AI curriculum and platform
+- Special thanks to [Laurence Moroney](https://www.linkedin.com/in/laurence-moroney/) for his excellent instruction and for developing the course materials and datasets
+- Special thanks to the entire TensorFlow team for their contributions to open-source machine learning tools and education
+- The dataset is part of the official TensorFlow datasets collection
+- Image examples courtesy of the [TensorFlow Datasets repository](https://github.com/tensorflow/datasets)
+- This notebook was created as part of the "Deep Learning AI TensorFlow Developer Professional Certificate" program
+
+---
+
 ## Contact 📫 
 
 For inquiries about this project:
@@ -259,6 +271,5 @@ For inquiries about this project:
 
 ---
 
-## Copyright
+© 2025 Melissa Slawsky. All Rights Reserved.
 
-© 2025 Melissa Slawsky. All rights reserved.
