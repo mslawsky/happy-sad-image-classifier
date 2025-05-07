@@ -22,7 +22,7 @@ A convolutional neural network implementation using TensorFlow to classify emoji
 - [Installation & Usage](#installation--usage-)
 - [Key Learnings](#key-learnings-)
 - [Future Improvements](#future-improvements-)
-- [Acknowledgements](#acknowledgements-)
+- [Acknowledgments](#acknowledgments-)
 
 ---
 
