@@ -169,7 +169,7 @@ The model achieves an impressive 99.9% accuracy on the training dataset, meeting
 
 **Training Visualization:**
 
-![Training Accuracy Curve](https://github.com/yourusername/happy-sad-classifier/raw/main/images/training_curve.png)
+![Training Accuracy Curve](training-accuracy-curve.png)
 
 The graph shows rapid improvement in accuracy across the training epochs, with the model quickly learning to distinguish between happy and sad faces.
 
